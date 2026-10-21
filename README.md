@@ -1,2 +1,6 @@
 Nagesh Singh
-I an a student at ADYPU,currently learning Git and GitHub.
+I am a student at ADYPU,currently learning Git and GitHub.
+## Skills
+- Communication
+- Problem solving
+- Basic Git
