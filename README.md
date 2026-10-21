@@ -7,3 +7,5 @@
 ## Projects
 - Bug Fixer: Reads code bug reports, reproduces errors, and suggests automatic code patches.
 - Travel Planner: Coordinates flights, hotel bookings, local activities, and weather updates using specialized AI agents.
+## Contact
+- Email: nageshtomar8865@gmail.com
